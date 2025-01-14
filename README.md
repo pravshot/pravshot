@@ -1,4 +1,4 @@
-👋 Hi, I’m Praveen Kalva and I'm a senior studying computer science at the University of Illinois at Urbana-Champaign. You can reach me at spkalva3@illinois.edu
+👋 Hi, I’m Praveen Kalva and I'm a master's student studying computer science at the University of Illinois at Urbana-Champaign. You can reach me at spkalva3@illinois.edu
 
 
 <!---
